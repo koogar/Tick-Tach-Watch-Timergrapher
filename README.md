@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/4d9fce35-94cd-408c-842e-20433776a29b
 
   Tick-Tach is a DIY project that recreates the essential functions of a timegrapher using simple, accessible parts. Instead of an expensive acoustic sensor, Tick-Tach relies on a piezoelectric microphone to detect the faint vibrations of a watch. The weak signal is amplified with a transistor-based preamp before being processed into meaningful timing data.
 
-  Unlike commercial probes, Tick-Tach’s electronics are housed in a custom 3D-printed enclosure. The case (shown above) is designed with a circular recess for the watch to rest on, a cavity for the piezo sensor, a neatly integrated preamp board, and a headphone-style jack for easy connection. A small toggle switch adds convenience.
+  Unlike commercial probes, Tick-Tach’s electronics are housed in a custom 3D-printed enclosure. The case (shown above) is designed with a circular recess for the watch to rest on, a cavity for the piezo sensor, a neatly integrated preamp board, and a headphone-style jack for easy connection. A small toggle switch adds convenience. A hair bobble is integrated into the case to retain the watch when rotating, during different position tests.
 
 Tick-Tach is also software compatible, working with the open-source “tg-timer”, "PC Timer Machine" application on PC and the "Watch Accuracy Meter" app on Android. This allows users to visualise live waveforms, track performance, and adjust their watches using the platform they prefer.
 
