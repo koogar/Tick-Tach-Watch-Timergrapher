@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/4d9fce35-94cd-408c-842e-20433776a29b
 
   Unlike commercial probes, Tick-Tach’s electronics are housed in a custom 3D-printed enclosure. The case (shown above) is designed with a circular recess for the watch to rest on, a cavity for the piezo sensor, a neatly integrated preamp board, and a headphone-style jack for easy connection. A small toggle switch adds convenience.
 
-Tick-Tach is also software compatible, working with the open-source “tg” application on PC and the Watch Accuracy Meter app on Android. This allows users to visualise live waveforms, track performance, and adjust their watches using the platform they prefer.
+Tick-Tach is also software compatible, working with the open-source “tg-timer”, "PC Timer Machine" application on PC and the "Watch Accuracy Meter" app on Android. This allows users to visualise live waveforms, track performance, and adjust their watches using the platform they prefer.
 
 ## Why It Matters
 
