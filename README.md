@@ -23,5 +23,5 @@ TallmanLabs Tick Tach Watch Timergrapher
 
 
 
-[Sample Recording 21600 BPM](https://gabalpha.github.io/read-audio/?p=https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Sound%20Samples/Tick_Tach%20Mic%20Test%2021600.Miyota%208215.m4a)
+[Sample Recording 21600 BPM](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Sound%20Samples/Tick_Tach%20Mic%20Test%2021600.Miyota%208215.m4a)
 
