@@ -14,11 +14,11 @@
 
 At its core, a timegrapher listens to the tick-tock of a mechanical watch and turns that sound into data. The key readings are:
 
-  Rate – how many seconds the watch gains or loses per day.
+  * Rate – how many seconds the watch gains or loses per day.
 
-  Amplitude – the swing of the balance wheel, an indicator of movement power.
+  * Amplitude – the swing of the balance wheel, an indicator of movement power.
 
-  Beat Error – how evenly spaced the tick and tock are, showing whether the balance is centred.
+  * Beat Error – how evenly spaced the tick and tock are, showing whether the balance is centred.
 
   Together, these measurements tell whether a watch is healthy, in need of regulation, or due for service.
 
@@ -53,7 +53,15 @@ With its smart enclosure and open-source software compatibility, Tick-Tach bridg
 
 
 
+## Why Tick-Tach Stands Out
 
+* Affordable yet accurate: Avoids the cost of commercial timegraphers while delivering reliable data.
+
+* Open-source friendly: Works with the tg software on PC and Watch Accuracy Meter on Android for versatile use.
+
+* Maker-centric UX: 3D-printed housing, component-level transparency, and customization potential.
+
+* Educational and empowering: A practical electronics, signal-processing, and horology project that helps build understanding while enabling real diagnostic capability.
 
 
 
