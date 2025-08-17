@@ -1,4 +1,3 @@
-# Tick Tach Watch Timergrapher
 ## Tick-Tach: A DIY Timegrapher for Watch Enthusiasts
 
   Mechanical watches may seem timeless, but keeping them accurate requires precise adjustment. That’s where a timegrapher comes in. Traditionally a tool for professional watchmakers, a timegrapher measures the tiny variations in a watch’s ticking to reveal how well its movement is performing.
