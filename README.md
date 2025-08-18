@@ -1,5 +1,4 @@
-# Tick Tach Watch Timergrapher
-## Tick-Tach: A DIY Timegrapher for Watch Enthusiasts
+## Tick-Tach: A DIY Timegrapher for Watch Enthusiasts - TallmanLabs 2025
 
   Mechanical watches may seem timeless, but keeping them accurate requires precise adjustment. That’s where a timegrapher comes in. Traditionally a tool for professional watchmakers, a timegrapher measures the tiny variations in a watch’s ticking to reveal how well its movement is performing.
 
@@ -14,11 +13,11 @@
 
 At its core, a timegrapher listens to the tick-tock of a mechanical watch and turns that sound into data. The key readings are:
 
-  Rate – how many seconds the watch gains or loses per day.
+  * Rate – how many seconds the watch gains or loses per day.
 
-  Amplitude – the swing of the balance wheel, an indicator of movement power.
+  * Amplitude – the swing of the balance wheel, an indicator of movement power.
 
-  Beat Error – how evenly spaced the tick and tock are, showing whether the balance is centred.
+  * Beat Error – how evenly spaced the tick and tock are, showing whether the balance is centred.
 
   Together, these measurements tell whether a watch is healthy, in need of regulation, or due for service.
 
@@ -26,9 +25,9 @@ https://github.com/user-attachments/assets/4d9fce35-94cd-408c-842e-20433776a29b
 
 ## The Tick-Tach Approach
 
-  Tick-Tach is a DIY project that recreates the essential functions of a timegrapher using simple, accessible parts. Instead of an expensive acoustic sensor, Tick-Tach relies on a piezoelectric microphone to detect the faint vibrations of a watch. The weak signal is amplified with a transistor-based preamp before being processed into meaningful timing data.
+  Tick-Tach is a DIY project that recreates the essential functions of a timegrapher using simple, accessible parts. Instead of an expensive acoustic sensor, Tick-Tach relies on a 30mm piezo electric microphone to detect the faint vibrations of a watch. The weak signal is amplified with a transistor-based preamp before being processed into meaningful timing data.
 
-  Unlike commercial probes, Tick-Tach’s electronics are housed in a custom 3D-printed enclosure. The case (shown above) is designed with a circular recess for the watch to rest on, a cavity for the piezo sensor, a neatly integrated preamp board, and a headphone-style jack for easy connection. A small toggle switch adds convenience.
+  Unlike commercial probes, Tick-Tach’s electronics are housed in a custom 3D-printed enclosure. The case (shown above) is designed with a circular recess for the watch to rest on, a cavity for the 30mm piezo sensor, a neatly integrated preamp board, and a headphone-style jack for easy connection. A small toggle switch adds convenience. A hair bobble is integrated into the case to retain the watch when rotating, during different position tests.
 
 Tick-Tach is also software compatible, working with the open-source “tg-timer”, "PC Timer Machine" application on PC and the "Watch Accuracy Meter" app on Android. This allows users to visualise live waveforms, track performance, and adjust their watches using the platform they prefer.
 
@@ -53,7 +52,22 @@ With its smart enclosure and open-source software compatibility, Tick-Tach bridg
 
 
 
+## Technical Notes & Tips
+
+* Apple device compatibility: Some iPhones expect a load on the microphone input of the TRRS socket. A 10 kΩ resistor between ground and mic output may be needed to “wake” the input. In some cases, mic and ground may also be reversed on the connector.
+
+* Mono signal: The piezo pickup is mono, but this makes no difference to the timegrapher’s performance, since the software only needs a single channel of clean input. Using a standard TRRS mic/headphones adaptor may present it as dual mono, but in practice the analysis works the same.
+
+* Piezo pickup behaviour: Unlike air microphones, the piezo disc works mainly by sensing vibration transmitted through contact with the watch case. The downside is that piezo sensors are very microphonic — they can pick up knocks, cable movement, or handling noise, so careful placement and housing design help reduce unwanted signals.
 
 
+## Why Tick-Tach Stands Out
 
+* Affordable yet accurate: Avoids the cost of commercial timegraphers while delivering reliable data.
+
+* Open-source friendly: Works with the tg software on PC and Watch Accuracy Meter on Android for versatile use.
+
+* Maker-centric UX: 3D-printed housing, component-level transparency, and customization potential.
+
+* Educational and empowering: A practical electronics, signal-processing, and horology project that helps build understanding while enabling real diagnostic capability.
 
