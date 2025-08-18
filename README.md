@@ -52,6 +52,15 @@ With its smart enclosure and open-source software compatibility, Tick-Tach bridg
 
 
 
+## Technical Notes & Tips
+
+* Apple device compatibility: Some iPhones expect a load on the microphone input of the TRRS socket. A 10 kΩ resistor between ground and mic output may be needed to “wake” the input. In some cases, mic and ground may also be reversed on the connector.
+
+* Mono signal: The piezo pickup is mono, but this makes no difference to the timegrapher’s performance, since the software only needs a single channel of clean input. Using a standard TRRS mic/headphones adaptor may present it as dual mono, but in practice the analysis works the same.
+
+* Piezo pickup behaviour: Unlike air microphones, the piezo disc works mainly by sensing vibration transmitted through contact with the watch case. The downside is that piezo sensors are very microphonic — they can pick up knocks, cable movement, or handling noise, so careful placement and housing design help reduce unwanted signals.
+
+
 ## Why Tick-Tach Stands Out
 
 * Affordable yet accurate: Avoids the cost of commercial timegraphers while delivering reliable data.
@@ -61,6 +70,4 @@ With its smart enclosure and open-source software compatibility, Tick-Tach bridg
 * Maker-centric UX: 3D-printed housing, component-level transparency, and customization potential.
 
 * Educational and empowering: A practical electronics, signal-processing, and horology project that helps build understanding while enabling real diagnostic capability.
-
-
 
