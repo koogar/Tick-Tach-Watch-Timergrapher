@@ -37,7 +37,7 @@ Tick-Tach is also software compatible, working with the open-source â€œtg-timerâ
 
 With its smart enclosure and open-source software compatibility, Tick-Tach bridges the gap between professional watchmaking tools and the DIY workshop.
 
-![](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Images/TickTacho%20PreAmp%20Schematics%20(2).jpg)
+![](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Images/TickTacho%20PreAmp%20Schematics%20(2).png)
 
 ![](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Images/TRS.TRRS.JackPinout.jpg)
 
