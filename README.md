@@ -6,8 +6,8 @@
 
 ![](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Images/Tick%20Tach%20Header.jpg)
 
+![](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Images/TML_TickTach_Timergrapher%20(EXP)%20(Large).jpg)
 ![](https://github.com/koogar/Tick-Tach-Watch-Timergrapher/blob/main/Images/TML_TickTach_Timergrapher%20(7)%20(Large).jpg)
-
 
 ## What a Timegrapher Does
 
